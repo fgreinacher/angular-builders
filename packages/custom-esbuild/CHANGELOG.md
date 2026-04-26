@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [21.1.0-beta.9](https://github.com/just-jeb/angular-builders/compare/@angular-builders/custom-esbuild@21.1.0-beta.8...@angular-builders/custom-esbuild@21.1.0-beta.9) (2026-04-26)
+
+### Bug Fixes
+
+* **deps:** add rxjs>=7 as peer dependency to custom-esbuild, custom-webpack, and jest (fixes [#1863](https://github.com/just-jeb/angular-builders/issues/1863)) ([#2188](https://github.com/just-jeb/angular-builders/issues/2188)) ([2e067f5](https://github.com/just-jeb/angular-builders/commit/2e067f51eb3efb65fbef7050b8a10c499a585f0a))
+
 ## [21.1.0-beta.8](https://github.com/just-jeb/angular-builders/compare/@angular-builders/custom-esbuild@21.1.0-beta.7...@angular-builders/custom-esbuild@21.1.0-beta.8) (2026-04-24)
 
 **Note:** Version bump only for package @angular-builders/custom-esbuild

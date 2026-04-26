@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [21.1.0-beta.7](https://github.com/just-jeb/angular-builders/compare/@angular-builders/custom-webpack@21.1.0-beta.6...@angular-builders/custom-webpack@21.1.0-beta.7) (2026-04-26)
+
+### Bug Fixes
+
+* **common:** remove moduleResolution override in ts-node register (fixes [#2025](https://github.com/just-jeb/angular-builders/issues/2025)) ([#2187](https://github.com/just-jeb/angular-builders/issues/2187)) ([a0daa6a](https://github.com/just-jeb/angular-builders/commit/a0daa6a9730c4f918667f5f9a99dc373a41c1382))
+* **custom-webpack:** preserve anonymous plain-object plugins during merge ([#2183](https://github.com/just-jeb/angular-builders/issues/2183)) ([c0336c2](https://github.com/just-jeb/angular-builders/commit/c0336c2d01fa90d632bc431fd3f45593fdaad17b)), closes [angular/angular-cli#16817](https://github.com/angular/angular-cli/issues/16817) [#1908](https://github.com/just-jeb/angular-builders/issues/1908) [#1908](https://github.com/just-jeb/angular-builders/issues/1908)
+* **deps:** add rxjs>=7 as peer dependency to custom-esbuild, custom-webpack, and jest (fixes [#1863](https://github.com/just-jeb/angular-builders/issues/1863)) ([#2188](https://github.com/just-jeb/angular-builders/issues/2188)) ([2e067f5](https://github.com/just-jeb/angular-builders/commit/2e067f51eb3efb65fbef7050b8a10c499a585f0a))
+
 ## [21.1.0-beta.6](https://github.com/just-jeb/angular-builders/compare/@angular-builders/custom-webpack@21.1.0-beta.5...@angular-builders/custom-webpack@21.1.0-beta.6) (2026-03-10)
 
 **Note:** Version bump only for package @angular-builders/custom-webpack
